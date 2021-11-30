@@ -1,4 +1,3 @@
-echo "# 0x88cF6F2ED982f787c1E91d8d7b2E31432F5c1Fe0" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
